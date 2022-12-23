@@ -90,6 +90,7 @@ nav{
     gap: 8px;
     justify-content: center;
     margin: 8px 0px;
+    flex-wrap: wrap;
 }
 .chip{
     border-radius: 9999px;
